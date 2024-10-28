@@ -7,7 +7,8 @@ from sklearn.metrics import accuracy_score
 from PIL import Image
 
 # Đường dẫn tới thư mục chứa các Patch
-dataset_path = "D:/YTE"
+dataset_path = "D:/XLATHGIMAYTINH/bth4/bth4/input/YTE"
+
 
 # Tạo danh sách chứa ảnh và nhãn
 data = []
